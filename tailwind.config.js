@@ -7,6 +7,11 @@ export default {
         redditMono: ["Reddit Mono", "serif"],
         inter: ["Inter", "serif"],
       },
+      colors: {
+        "orin-blue": "#5258E4",
+        "orin-black": "#1F2122",
+        "orin-grey": "#414346",
+      },
     },
   },
   plugins: [],
