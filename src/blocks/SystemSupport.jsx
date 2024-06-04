@@ -17,10 +17,19 @@ function SystemSupport() {
         <DescTag title="Maintenance" />
         <DescTag title="Custom Components" />
       </div>
-      <div className="flex flex-col justify-center items-center">
-        <img src="../../public/icons/work-examples.svg" className="mb-6" />
-        <img src="../../public/icons/work-examples.svg" className="mb-6" />
-        <img src="../../public/icons/work-examples.svg" className="mb-6" />
+      <div className="flex flex-col md:flex-row w-full md:justify-between">
+        <img
+          src="../../public/icons/work-examples.svg"
+          className="mb-6 w-full md:w-[32%] object-cover"
+        />
+        <img
+          src="../../public/icons/work-examples.svg"
+          className="mb-6 w-full md:w-[32%] object-cover"
+        />
+        <img
+          src="../../public/icons/work-examples.svg"
+          className="mb-6 w-full md:w-[32%] object-cover"
+        />
       </div>
       <button className="px-6 leading-[14px] border-[1.4px] py-4 rounded-lg border-orin-black">
         View More Work

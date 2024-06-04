@@ -13,6 +13,11 @@ export default {
         "orin-grey": "#414346",
         "orin-off-white": "#FAF9F6",
         "orin-light-grey": "#F5F5F5",
+        "orin-light-black": "#414346",
+        "orin-border-grey": "#E1E3E6",
+      },
+      lineHeight: {
+        28: "28px",
       },
     },
   },
