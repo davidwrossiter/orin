@@ -5,6 +5,7 @@ export default {
     extend: {
       fontFamily: {
         redditMono: ["Reddit Mono", "serif"],
+        inter: ["Inter", "serif"],
       },
     },
   },
