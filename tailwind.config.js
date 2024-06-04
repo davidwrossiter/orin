@@ -12,6 +12,7 @@ export default {
         "orin-black": "#1F2122",
         "orin-grey": "#414346",
         "orin-off-white": "#FAF9F6",
+        "orin-light-grey": "#F5F5F5",
       },
     },
   },

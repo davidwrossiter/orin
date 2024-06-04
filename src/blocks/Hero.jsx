@@ -15,7 +15,7 @@ function Hero() {
         <button className="px-6 py-4 rounded-lg bg-orin-black text-white">
           View Plans
         </button>
-        <button className="px-6 py-4 rounded-lg border border-orin-black">
+        <button className="px-6 py-4 rounded-lg border-[1.4px] border-orin-black">
           Read FAQ's
         </button>
       </div>
