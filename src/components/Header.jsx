@@ -4,7 +4,7 @@ function Header() {
   return (
     <header className="flex flex-row w-full justify-between px-6 py-4 bg-orin-off-white">
       <p className="font-inter text-xl font-semibold">Orin</p>
-      <img src="../../public/icons/nav-burger-menu.svg" />
+      <img src="../../icons/nav-burger-menu.svg" />
     </header>
   );
 }
