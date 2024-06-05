@@ -19,15 +19,15 @@ function SystemSupport() {
       </div>
       <div className="flex flex-col md:flex-row w-full md:justify-between">
         <img
-          src="../../public/icons/work-examples.svg"
+          src="../../icons/work-examples.svg"
           className="mb-6 w-full md:w-[32%] object-cover"
         />
         <img
-          src="../../public/icons/work-examples.svg"
+          src="../../icons/work-examples.svg"
           className="mb-6 w-full md:w-[32%] object-cover"
         />
         <img
-          src="../../public/icons/work-examples.svg"
+          src="../../icons/work-examples.svg"
           className="mb-6 w-full md:w-[32%] object-cover"
         />
       </div>
