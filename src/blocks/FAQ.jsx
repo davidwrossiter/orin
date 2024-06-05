@@ -3,8 +3,8 @@ import AQ from "../components/AQ";
 
 function FAQ() {
   return (
-    <div className="px-6 py-10">
-      <p className="font-bold text-orin-black text-2xl leading-7 pb-6">
+    <div className="py-10 xl:py-20 w-full max-w-[1158px]">
+      <p className="font-bold lg:text-[36px] text-orin-black text-2xl leading-7 pb-6 lg:pb-10">
         Frequently Asked Questions
       </p>
       <AQ

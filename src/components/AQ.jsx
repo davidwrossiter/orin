@@ -10,7 +10,7 @@ function AQ({ question, answer }) {
   return (
     <div
       onClick={openQuestion}
-      className="border hover:cursor-pointer bg-white mb-[12px] font-inter border-orin-border-grey p-4 rounded-lg"
+      className="border max-w-[704px] hover:cursor-pointer bg-white mb-[12px] font-inter border-orin-border-grey p-4 rounded-lg"
     >
       <div className="flex flex-row items-center">
         <img

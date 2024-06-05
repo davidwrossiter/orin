@@ -3,7 +3,7 @@ import React from "react";
 function Review({ hasPaddingBottom, name, jobTitle, description, iconSrc }) {
   // className={`flex flex-row items-center ${hasTopMargin ? "pt-4" : ""}`}
   return (
-    <div className={`${hasPaddingBottom ? "pb-6" : ""}`}>
+    <div className={`${hasPaddingBottom ? "pb-6" : ""} max-w-[448px] pr-4`}>
       <div className="flex flex-row items-center pb-6">
         <img src="../../icons/review-icon.svg" />
         <div className="flex flex-col pl-4">
