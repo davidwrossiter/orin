@@ -2,7 +2,7 @@ import React from "react";
 
 function DescTag({ title }) {
   return (
-    <div className="px-4 py-2 mr-2 mt-2 bg-orin-light-grey w-fit rounded-full">
+    <div className="px-4 py-2 mr-2 mt-2 bg-white w-fit rounded-full border border-orin-border-grey">
       {title}
     </div>
   );

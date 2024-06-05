@@ -9,7 +9,7 @@ import Footer from "../blocks/Footer";
 
 function Home() {
   return (
-    <div className="bg-orin-off-white">
+    <div className="bg-orin-off-white px-6 lg:px-[148px] w-full flex flex-col lg:items-center">
       <Hero />
       <HowItWorks />
       <ReviewBlock />

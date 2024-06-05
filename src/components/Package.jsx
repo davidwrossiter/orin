@@ -11,7 +11,7 @@ function Package({
 }) {
   return (
     <div
-      className={`border ${marginTop} px-6 text-orin-black py-8 bg-white rounded-2xl`}
+      className={`max-w-[448px] ${marginTop} px-6 text-orin-black py-8 bg-white rounded-2xl`}
     >
       <p
         className={`text-[12px] ${textColour} leading-[12px] px-4 py-2 rounded-full ${backgroundColour} w-fit font-semibold mb-6`}
