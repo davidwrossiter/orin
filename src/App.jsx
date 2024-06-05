@@ -1,22 +1,20 @@
+import { useEffect } from "react";
+import { Routes, Route, useLocation } from "react-router-dom";
+import Home from "./pages/Home";
+import Header from "./components/Header";
+
 function App() {
+  const location = useLocation();
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location.pathname]);
+
   return (
     <>
-      <div className="flex justify-center items-center w-full h-screen">
-        <h1 className="font-redditMono px-12">
-          Orin Design is currently undergoing maintenance. If you have any
-          questions you can contact Warren{" "}
-          <span>
-            <a
-              href="https://www.linkedin.com/in/warren-g-rossiter/"
-              target="_blank"
-              className="underline"
-            >
-              here
-            </a>
-          </span>
-          .
-        </h1>
-      </div>
+      <Header />
+      <Routes>
+        <Route path="/" element={<Home />} />
+      </Routes>
     </>
   );
 }
