@@ -14,13 +14,15 @@ function AQ({ question, answer }) {
     >
       <div className="flex flex-row items-center">
         <img
-          src="../../public/icons/faq-arrow.svg"
+          src="../../icons/faq-arrow.svg"
           className={`${open ? "transform rotate-180" : ""} `}
         />
         <p className="pl-2 text-sm font-bold">{question}</p>
       </div>
       {open ? (
-        <p className="text-orin-grey font-light border-t text-sm mt-4 pt-4">{answer}</p>
+        <p className="text-orin-grey font-light border-t text-sm mt-4 pt-4">
+          {answer}
+        </p>
       ) : (
         ""
       )}
