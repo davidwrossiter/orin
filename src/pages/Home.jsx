@@ -19,7 +19,7 @@ function Home() {
       <Memberships />
       <FAQ />
       <Footer />
-      <Nav visibility={}/>
+      <Nav visibility={true} />
     </div>
   );
 }
