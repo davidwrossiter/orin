@@ -11,18 +11,20 @@ function Memberships() {
       <div className="flex flex-col md:flex-row">
         <Package
           title="Standard Subscription"
-          price="3,000.00"
+          price="3,995.00"
           reqs="One"
           backgroundColour="bg-orin-light-grey"
           textColour="text-orin-black"
+          url="https://buy.stripe.com/14k5ms2RG3SP7Ti145"
         />
         <Package
           title="Pro Subscription"
-          price="5,000.00"
+          price="5,995.00"
           reqs="Two"
           backgroundColour="bg-orin-blue"
           textColour="text-white"
           marginTop="mt-6 md:mt-0 md:ml-6"
+          url="https://buy.stripe.com/3cs3ekgIwblh2yYcMO"
         />
       </div>
     </div>
