@@ -6,6 +6,7 @@ import SystemSupport from "../blocks/SystemSupport";
 import Memberships from "../blocks/Memberships";
 import FAQ from "../blocks/FAQ";
 import Footer from "../blocks/Footer";
+import Nav from "../components/Nav";
 
 function Home() {
   return (
@@ -18,6 +19,7 @@ function Home() {
       <Memberships />
       <FAQ />
       <Footer />
+      <Nav visibility={}/>
     </div>
   );
 }
