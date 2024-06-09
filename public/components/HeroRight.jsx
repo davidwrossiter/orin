@@ -3,7 +3,6 @@ import React from "react";
 function HeroRight() {
   return (
     <svg
-
       style={{ minWidth: "447px", minHeight: "624px" }}
       height="624"
       width="447"

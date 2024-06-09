@@ -26,7 +26,9 @@ function Hero() {
         {/* The brands component below is a regular SVG component I made in JSX */}
         <Brands />
       </div>
-      <HeroRight />
+      <div className="hidden xl:flex">
+        <HeroRight />
+      </div>
 
       {/* <img src="../../icons/hero-icon.svg" className="hidden xl:block ml-5"/> */}
     </div>
