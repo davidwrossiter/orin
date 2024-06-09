@@ -9,31 +9,23 @@ function FAQ() {
       </p>
       <AQ
         question="How many requests can I have?"
-        answer="Design systems subscriptions for everyone. Pause or cancel anytime."
+        answer="You can submit as many requests as you like. We will deliver them one at a time."
       />
       <AQ
         question="When will I get my designs?"
-        answer="Design systems subscriptions for everyone. Pause or cancel anytime."
+        answer="It takes 48 hours on average to complete a request."
       />
       <AQ
-        question="Who does the design?"
-        answer="Design systems subscriptions for everyone. Pause or cancel anytime."
+        question="What if I don’t like the design?"
+        answer="We will keep iterating until you are 100% happy with the design."
       />
       <AQ
-        question="What programs do you use?"
-        answer="Design systems subscriptions for everyone. Pause or cancel anytime."
+        question="What if I only have a single request?"
+        answer="That's fine. You can pause your subscription when finished and return when you have additional design needs. There's no need to let the remainder of your subscription go to waste."
       />
       <AQ
-        question="What if I need changes?"
-        answer="Design systems subscriptions for everyone. Pause or cancel anytime."
-      />
-      <AQ
-        question="What work don't you do?"
-        answer="Design systems subscriptions for everyone. Pause or cancel anytime."
-      />
-      <AQ
-        question="Can I get a refund?"
-        answer="Design systems subscriptions for everyone. Pause or cancel anytime."
+        question="Do you offer a refund if I don’t like the service?"
+        answer="We don’t offer refunds but you can cancel at any time."
       />
     </div>
   );

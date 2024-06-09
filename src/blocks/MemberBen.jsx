@@ -9,32 +9,32 @@ function MemberBen() {
       </h4>
       <div className="flex flex-col sm:flex-row flex-wrap">
         <HowItWorksEl
-          title="Design Board"
-          description="Easily manage your design queue with a Trello board."
+          title="Consistency"
+          description="Ensure a unified look and feel across all you digital products."
         />
         <HowItWorksEl
-          title="Fast Delivery"
-          description="Easily manage your design queue with a Trello board."
+          title="Efficiency"
+          description="Streamline your design and development process with reusable components."
           hasTopMargin={true}
         />
         <HowItWorksEl
-          title="Fixed monthly rate"
-          description="Easily manage your design queue with a Trello board."
+          title="Collaboration"
+          description="Enhance communication between designers and developers."
           hasTopMargin={true}
         />
         <HowItWorksEl
-          title="Top-Notch Quality"
-          description="Easily manage your design queue with a Trello board."
+          title="Quality"
+          description="Maintain high standards across all designs and improves the overall user experience."
           hasTopMargin={true}
         />
         <HowItWorksEl
-          title="Flexible and scalable"
-          description="Easily manage your design queue with a Trello board."
+          title="Maintainability"
+          description="Reduce design and technical debt by standardising components."
           hasTopMargin={true}
         />
         <HowItWorksEl
-          title="Unique and all yours"
-          description="Easily manage your design queue with a Trello board."
+          title="Brand Integrity"
+          description="Reinforce brand identity consistently across different platforms."
           hasTopMargin={true}
         />
       </div>
