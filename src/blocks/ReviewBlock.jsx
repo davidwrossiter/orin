@@ -13,13 +13,13 @@ function ReviewBlock() {
           name="Sven"
           jobTitle="Head of Product Design - 22seven"
           description="Warren’s finesse in refining ideas, integrating feedback, and interpreting critiques rendered him exceptionally suited to our specialised design needs."
-          iconSrc=""
+          iconSrc="../../icons/sven.svg"
         />
         <Review
           name="Brandon"
           jobTitle="Director - Rethink"
           description="Warren’s commitment to excellence and his collaborative spirit made him an invaluable asset to our team."
-          iconSrc=""
+          iconSrc="../../icons/brandon.svg"
         />
       </div>
     </div>

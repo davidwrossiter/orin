@@ -8,6 +8,7 @@ function Package({
   reqCount,
   backgroundColour,
   textColour,
+  url,
 }) {
   return (
     <div
@@ -18,7 +19,7 @@ function Package({
       >
         {title}
       </p>
-      <p className="text-2xl leading-28 font-bold mb-4">£{price}/m</p>
+      <p className="text-2xl leading-28 font-bold mb-4">${price}/m</p>
       <div className="text-sm text-orin-grey">
         <p>• One request at a time.</p>
         <p>• Submit as many requests as you like.</p>
@@ -27,7 +28,7 @@ function Package({
       </div>
       <div className="flex flex-row mt-6 leading-[14px] text-sm font-medium">
         <button className="px-4 py-4 rounded-lg bg-orin-black text-white">
-          Subscribe
+          <a href={url}>Subscribe</a>
         </button>
         <button className="px-4 ml-4 py-4 rounded-lg border-[1.4px] border-orin-black">
           Book an Intro Call
