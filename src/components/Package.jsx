@@ -27,12 +27,20 @@ function Package({
         <p>• Cancel at any time.</p>
       </div>
       <div className="flex flex-row mt-6 leading-[14px] text-sm font-medium">
-        <button className="px-4 py-4 rounded-lg bg-orin-black text-white">
-          <a href={url}>Subscribe</a>
-        </button>
-        <button className="px-4 ml-4 py-4 rounded-lg border-[1.4px] border-orin-black">
+        <a
+          href={url}
+          target="_blank"
+          className="px-4 py-4 rounded-lg bg-orin-black text-white"
+        >
+          Subscribe
+        </a>
+        <a
+          href="https://cal.com/warrenrossiter/intro"
+          target="_blank"
+          className="px-4 ml-4 py-4 rounded-lg border-[1.4px] border-orin-black"
+        >
           Book an Intro Call
-        </button>
+        </a>
       </div>
       <div className="text-[12px] mt-8">
         <p className="mb-2">
