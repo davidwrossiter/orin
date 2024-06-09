@@ -1,6 +1,6 @@
 import React from "react";
 import Seven from "./icons/22seven";
-import Absa from "./icons/absa";
+import Absa from "./icons/Absa";
 import OldMutual from "./icons/OldMutual";
 import Engen from "./icons/Engen";
 import DBS from "./icons/DBS";
