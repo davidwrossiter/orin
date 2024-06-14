@@ -1,9 +1,8 @@
 import React from "react";
-import DescTag from "./DescTag";
 
 function BookCall() {
   return (
-    <div className="px-6 py-8 border rounded-xl bg-[#F5F4F1] max-w-[346px] text-[#1F2122]">
+    <div className="px-6 py-8 border w-full rounded-xl bg-[#F5F4F1] sm:w-[346px] text-[#1F2122]">
       <div className="px-4 py-2 text-sm font-semibold leading-4 mr-2 mt-2 bg-white w-fit rounded-lg border border-orin-border-grey">
         Get in touch
       </div>

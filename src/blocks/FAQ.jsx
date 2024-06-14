@@ -4,12 +4,12 @@ import BookCall from "../components/BookCall";
 
 function FAQ() {
   return (
-    <div className="py-10 xl:py-20 w-full max-w-[1158px] flex flex-col">
+    <div className="py-10 xl:py-20 w-full max-w-[1036px] flex flex-col">
       <p className="font-bold lg:text-[36px] text-orin-black text-2xl leading-7 pb-6 lg:pb-10">
         Frequently Asked Questions
       </p>
-      <div className="flex flex-col md:flex-row gap-6">
-        <div className="flex flex-col">
+      <div className="flex flex-col md:flex-row gap-6 w-full md:basis-0">
+        <div className="flex flex-col md:flex-grow">
           <AQ
             question="How many requests can I have?"
             answer="You can submit as many requests as you like. We will deliver them one at a time."
@@ -31,7 +31,7 @@ function FAQ() {
             answer="We don’t offer refunds but you can cancel at any time."
           />
         </div>
-        <div className="">
+        <div className="md:flex-grow md:basis-1">
           <BookCall />
         </div>
       </div>
