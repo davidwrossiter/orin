@@ -7,17 +7,17 @@ function BookCall() {
         Get in touch
       </div>
       <div>
-        <div className="py-8 flex flex-row items-center">
+        <div className="py-8 flex flex-row items-center ">
           <img
             src="../../icons/warren.svg"
             className="border rounded-lg border-orin-border-grey"
             draggable="false"
           />
-          <h4 className="pl-4 font-bold text-2xl leading-7">
+          <h4 className="pl-4 w-full font-bold text-2xl leading-7 max-w-[250px]">
             Book a 15-minute introductory call.
           </h4>
         </div>
-        <p className="font-[400] text-sm">
+        <p className="font-[400] text-sm max-w-[250px]">
           Learn more about Orin Design and find out how we can help you.
         </p>
       </div>
