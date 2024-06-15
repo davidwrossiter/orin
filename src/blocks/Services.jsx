@@ -17,20 +17,20 @@ function SystemSupport() {
         <DescTag title="Building Component Libraries" />
         <DescTag title="Maintaining Component Libraries" />
       </div>
-      <div className="flex flex-col md:flex-row w-full md:justify-between max-w-[1156px]">
+      <div className="flex flex-col sm:flex-row w-full sm:justify-between max-w-[1156px]">
         <img
           src="../../work-examples/example-one.svg"
-          className="mb-6 w-full md:w-[32%] object-cover"
+          className="mb-6 w-full sm:w-[32%] object-cover"
           draggable="false"
         />
         <img
           src="../../work-examples/example-two.svg"
-          className="mb-6 w-full md:w-[32%] object-cover"
+          className="mb-6 w-full sm:w-[32%] object-cover"
           draggable="false"
         />
         <img
           src="../../work-examples/example-three.svg"
-          className="mb-6 w-full md:w-[32%] object-cover"
+          className="mb-6 w-full sm:w-[32%] object-cover"
           draggable="false"
         />
       </div>
