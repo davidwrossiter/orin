@@ -22,13 +22,14 @@ function BookCall() {
         </p>
       </div>
 
-      <button
-        href="https://cal.com/warrenrossiter/intro"
-        target="_blank"
-        className="mt-6 mb-8 px-4 py-4 text-sm leading-[14px] rounded-lg border-[1.4px] border-orin-black"
-      >
-        Book an Intro Call
-      </button>
+      <a href="https://cal.com/warrenrossiter/intro" target="_blank">
+        <button
+          target="_blank"
+          className="mt-6 mb-8 px-4 py-4 text-sm leading-[14px] rounded-lg border-[1.4px] border-orin-black hover:bg-[#EFEFEF] active:bg-[#E0DCDC]"
+        >
+          Book an Intro Call
+        </button>
+      </a>
       <p className="text-[12px] leading-4">
         Or email using{" "}
         <span className="underline">hello at orindesign dot co</span>
