@@ -3,7 +3,10 @@ import DescTag from "../components/DescTag";
 
 function SystemSupport() {
   return (
-    <div className="py-10 xl:py-20 w-full max-w-[1156px] flex flex-col lg:items-center">
+    <div
+      id="services"
+      className="py-10 xl:py-20 w-full max-w-[1156px] flex flex-col lg:items-center"
+    >
       <h5 className="max-w-[700px] font-bold text-2xl lg:text-[36px] lg:leading-10 lg:text-center leading-7 pb-4 lg:pb-6">
         Our Services
       </h5>
@@ -34,7 +37,7 @@ function SystemSupport() {
           draggable="false"
         />
       </div>
-      <button className="px-6 leading-[14px] border-[1.4px] py-4 rounded-lg border-orin-black">
+      <button className="px-6 leading-[14px] border-[1.4px] py-4 rounded-lg border-orin-black hover:bg-[#EFEFEF] active:bg-[#E0DCDC]">
         View More Work
       </button>
     </div>
