@@ -4,7 +4,10 @@ import BookCall from "../components/BookCall";
 
 function FAQ() {
   return (
-    <div className="py-10 xl:py-20 w-full max-w-[1156px] flex flex-col">
+    <div
+      className="py-10 xl:py-20 w-full max-w-[1156px] flex flex-col"
+      id="faq"
+    >
       <p className="font-bold lg:text-[36px] text-orin-black text-2xl leading-7 pb-6 lg:pb-10">
         Frequently Asked Questions
       </p>

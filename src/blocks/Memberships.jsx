@@ -3,7 +3,10 @@ import Package from "../components/Package";
 
 function Memberships() {
   return (
-    <div className="py-10 xl:py-20 flex flex-col lg:items-center">
+    <div
+      id="memberships"
+      className="py-10 xl:py-20 flex flex-col lg:items-center"
+    >
       <h6 className="font-bold text-orin-dark text-2xl lg:text-[36px] leading-7 pb-6 lg:pb-10">
         M<span className="text-orin-light-black">emberships</span>
       </h6>
