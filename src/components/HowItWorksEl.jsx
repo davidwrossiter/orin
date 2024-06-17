@@ -8,7 +8,7 @@ function HowItWorksEl({ hasTopMargin, title, description }) {
           hasTopMargin ? "pt-4 sm:pt-0" : ""
         }`}
       >
-        <img src="../../icons/rectangle-how-it-works.svg" />
+        <img src="../../icons/rectangle-how-it-works.svg" alt="purple column" />
         <p className="text-orin-black pl-6 text-xl font-bold leading-7">
           {title}
         </p>
