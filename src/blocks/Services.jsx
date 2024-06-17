@@ -25,16 +25,19 @@ function SystemSupport() {
           src="../../work-examples/example-one.svg"
           className="mb-6 w-full sm:w-[32%] object-cover"
           draggable="false"
+          alt="website landing page in dark"
         />
         <img
           src="../../work-examples/example-two.svg"
           className="mb-6 w-full sm:w-[32%] object-cover"
           draggable="false"
+          alt="website landing page in dark"
         />
         <img
           src="../../work-examples/example-three.svg"
           className="mb-6 w-full sm:w-[32%] object-cover"
           draggable="false"
+          alt="website landing page in dark"
         />
       </div>
       <button className="px-6 leading-[14px] border-[1.4px] py-4 rounded-lg border-orin-black hover:bg-[#EFEFEF] active:bg-[#E0DCDC]">

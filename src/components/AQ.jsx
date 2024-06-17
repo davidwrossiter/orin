@@ -16,6 +16,7 @@ function AQ({ question, answer }) {
         <img
           src="../../icons/faq-arrow.svg"
           className={`${open ? "transform rotate-180" : ""} `}
+          alt="arrow pointing down"
         />
         <p className="pl-2 text-sm font-bold">{question}</p>
       </div>
