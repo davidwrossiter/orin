@@ -28,6 +28,7 @@ function Package({
       </div>
       <div className="flex flex-row mt-6 leading-[14px] text-sm font-medium">
         <a
+          data-rewardful
           href={url}
           target="_blank"
           className="leading-4 px-6 py-4 rounded-lg bg-orin-black text-white hover:bg-[#404245] active:bg-[#606469]"
