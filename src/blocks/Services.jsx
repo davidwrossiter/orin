@@ -40,7 +40,10 @@ function SystemSupport() {
           alt="website landing page in dark"
         />
       </div>
-      <a href="https://www.figma.com/proto/YZ7mEOEg9pkIn8xbNI7xwy/Orin-Landing-Page?page-id=700%3A22977&node-id=765-5041&viewport=11888%2C-267%2C0.58&t=e6IHwBx3ShLmHIQI-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=765%3A5041">
+      <a
+        href="https://www.figma.com/proto/YZ7mEOEg9pkIn8xbNI7xwy/Orin-Landing-Page?page-id=700%3A22977&node-id=765-5041&viewport=11888%2C-267%2C0.58&t=e6IHwBx3ShLmHIQI-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=765%3A5041"
+        target="_blank"
+      >
         <button className="px-6 leading-[14px] border-[1.4px] py-4 rounded-lg border-orin-black hover:bg-[#EFEFEF] active:bg-[#E0DCDC]">
           View More Work
         </button>
