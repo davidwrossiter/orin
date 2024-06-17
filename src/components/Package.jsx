@@ -45,11 +45,11 @@ function Package({
       </div>
       <div className="text-[12px] mt-8">
         <p className="mb-2 max-w-[336px]">
-          Refer a friend and earn 10% monthly recurring commissions for each
+          Refer a friend and earn 5% monthly recurring commissions for each
           referral.
         </p>
         <a
-          href="orin-design-co.getrewardful.com"
+          href="https://orin-design-co.getrewardful.com"
           target="_blank"
           className="font-bold"
         >
