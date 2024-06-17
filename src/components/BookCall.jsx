@@ -12,6 +12,7 @@ function BookCall() {
             src="../../icons/warren.svg"
             className="border rounded-lg border-orin-border-grey"
             draggable="false"
+            alt="portrait of man in grey-scale"
           />
           <h4 className="pl-4 w-full font-bold text-2xl leading-7 max-w-[250px]">
             Book a 15-minute introductory call.
