@@ -22,12 +22,12 @@ function Hero() {
         </p>
         <div className="flex flex-row gap-2 leading-[14px] text-sm font-medium py-6 xl:py-10">
           <a href="#memberships">
-            <button className="px-6 py-4 rounded-lg bg-orin-black text-white hover:bg-[#404245] active:bg-[#606469]">
+            <button className="px-6 py-3 sm:py-4 rounded-lg border-[1.4px] border-orin-black bg-orin-black text-white hover:bg-[#404245] active:bg-[#606469]">
               View Plans
             </button>
           </a>
           <a href="#faq">
-            <button className="px-6 py-4 rounded-lg border-[1.4px] border-orin-black hover:bg-[#EFEFEF] active:bg-[#E0DCDC]">
+            <button className="px-6 py-3 sm:py-4 rounded-lg border-[1.4px] border-orin-black hover:bg-[#EFEFEF] active:bg-[#E0DCDC]">
               Read FAQ's
             </button>
           </a>
