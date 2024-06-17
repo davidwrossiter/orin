@@ -2,12 +2,10 @@ import React from "react";
 
 function Footer() {
   return (
-    <div className="w-full pt-7 pb-10 max-w-[1158px]">
-      <p className="text-orin-black leading-7 ">Frequently Asked Questions</p>
+    <div className="w-full pt-7 pb-32 max-w-[1158px]">
+      <p className="text-orin-black leading-7 ">Orin Design</p>
       <p className="text-orin-grey text-sm font-light py-3">
-        Warren’s finesse in refining ideas, integrating feedback, and
-        interpreting critiques rendered him exceptionally suited to our
-        specialised design needs.
+        Quality UI Design delivered fast and affordably.
       </p>
       <p className="text-sm text-orin-black">
         <span className="underline">Terms</span> and{" "}

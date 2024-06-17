@@ -16,12 +16,16 @@ function Hero() {
           anytime.
         </p>
         <div className="flex flex-row gap-2 leading-[14px] text-sm font-medium py-6 xl:py-10">
-          <button className="px-6 py-4 rounded-lg bg-orin-black text-white hover:bg-[#404245] active:bg-[#606469]">
-            View Plans
-          </button>
-          <button className="px-6 py-4 rounded-lg border-[1.4px] border-orin-black hover:bg-[#EFEFEF] active:bg-[#E0DCDC]">
-            Read FAQ's
-          </button>
+          <a href="#memberships">
+            <button className="px-6 py-4 rounded-lg bg-orin-black text-white hover:bg-[#404245] active:bg-[#606469]">
+              View Plans
+            </button>
+          </a>
+          <a href="#faq">
+            <button className="px-6 py-4 rounded-lg border-[1.4px] border-orin-black hover:bg-[#EFEFEF] active:bg-[#E0DCDC]">
+              Read FAQ's
+            </button>
+          </a>
         </div>
         {/* The brands component below is a regular SVG component I made in JSX */}
         <Brands />
