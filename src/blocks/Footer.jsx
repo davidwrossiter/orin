@@ -8,8 +8,13 @@ function Footer() {
         Quality UI Design delivered fast and affordably.
       </p>
       <p className="text-sm text-orin-black">
-        <span className="underline">Terms</span> and{" "}
-        <span className="underline">Privacy</span>
+        <a href="/terms-of-service">
+          <span className="underline">Terms</span>
+        </a>{" "}
+        and{" "}
+        <a href="/privacy-policy">
+          <span className="underline">Privacy</span>
+        </a>
       </p>
     </div>
   );
