@@ -21,7 +21,7 @@ function Package({
       </p>
       <p className="text-2xl leading-28 font-bold mb-4">${price}/m</p>
       <div className="text-sm text-orin-grey">
-        <p>• {reqs} request at a time.</p>
+        <p>• {reqs}</p>
         <p>• Submit as many requests as you like.</p>
         <p>• 48 hour delivery on average.</p>
         <p>• Cancel at any time.</p>

@@ -15,7 +15,7 @@ function Memberships() {
         <Package
           title="Standard Subscription"
           price="3,995.00"
-          reqs="One"
+          reqs="One request at a time."
           backgroundColour="bg-orin-light-grey"
           textColour="text-orin-black"
           url="https://buy.stripe.com/14k5ms2RG3SP7Ti145"
@@ -23,7 +23,7 @@ function Memberships() {
         <Package
           title="Pro Subscription"
           price="5,995.00"
-          reqs="Two"
+          reqs="Two requests at a time."
           backgroundColour="bg-orin-blue"
           textColour="text-white"
           marginTop="mt-6 md:mt-0 md:ml-6"
