@@ -48,7 +48,11 @@ function Package({
           Refer a friend and earn 10% monthly recurring commissions for each
           referral.
         </p>
-        <a href="#" className="font-bold">
+        <a
+          href="orin-design-co.getrewardful.com"
+          target="_blank"
+          className="font-bold"
+        >
           Get started
         </a>
       </div>
