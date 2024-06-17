@@ -33,7 +33,7 @@ function BookCall() {
       </a>
       <p className="text-[12px] leading-4">
         Or email using{" "}
-        <span className="underline">hello at orindesign dot co</span>
+        <span className="underline">orin.design@proton (.) me</span>
       </p>
     </div>
   );
