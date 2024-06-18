@@ -41,7 +41,7 @@ function SystemSupport() {
         />
       </div>
       <a
-        href="https://www.figma.com/proto/YZ7mEOEg9pkIn8xbNI7xwy/Orin-Landing-Page?page-id=1068%3A6441&node-id=1076-24620&viewport=-163%2C295%2C0.65&t=VITLvsqO8TQv8Viq-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1068%3A6666&show-proto-sidebar=1"
+        href="https://www.figma.com/proto/YZ7mEOEg9pkIn8xbNI7xwy/Orin-Landing-Page?page-id=1068%3A6441&node-id=1068-6666&viewport=380%2C416%2C0.12&t=eeaTGHglfrxyoGPP-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1068%3A6666&show-proto-sidebar=1"
         target="_blank"
       >
         <button className="px-6 leading-[14px] border-[1.4px] py-4 rounded-lg border-orin-black hover:bg-[#EFEFEF] active:bg-[#E0DCDC]">
