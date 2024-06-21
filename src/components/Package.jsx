@@ -31,14 +31,14 @@ function Package({
           data-rewardful
           href={url}
           target="_blank"
-          className="leading-4 px-6 py-4 rounded-lg bg-orin-black text-white hover:bg-[#404245] active:bg-[#606469]"
+          className="leading-4 px-3 sm:px-6 py-4 rounded-lg bg-orin-black text-white hover:bg-[#404245] active:bg-[#606469]"
         >
           Subscribe
         </a>
         <a
           href="https://cal.com/warrenrossiter/intro"
           target="_blank"
-          className="leading-4 px-4 ml-4 py-4 rounded-lg border-[1.4px] border-orin-black hover:bg-[#EFEFEF] active:bg-[#E0DCDC]"
+          className="leading-4 px-3 sm:px-4 ml-4 py-4 rounded-lg border-[1.4px] border-orin-black hover:bg-[#EFEFEF] active:bg-[#E0DCDC]"
         >
           Book an Intro Call
         </a>
