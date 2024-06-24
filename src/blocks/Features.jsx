@@ -2,8 +2,8 @@ import React from "react";
 import HowItWorksEl from "../components/HowItWorksEl";
 function Features() {
   return (
-    <div id="features" className="py-10 xl:py-20 max-w-[1156px]">
-      <h3 className="pb-8 text-2xl leading-[28px] lg:pb-10 font-bold lg:text-[36px]">
+    <div id="features" className="py-10 xl:py-20 max-w-[1156px] flex flex-col items-center">
+      <h3 className="pb-8 text-2xl leading-[28px] lg:pb-10 font-bold lg:text-[36px] lg:leading-[48px]">
         Benefits
       </h3>
       <div className="flex flex-col sm:flex-row">
@@ -21,6 +21,7 @@ function Features() {
           description="Manage your own tasks using a dedicated task board."
           hasTopMargin={true}
         />
+        
       </div>
     </div>
   );

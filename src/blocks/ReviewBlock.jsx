@@ -3,8 +3,8 @@ import Review from "../components/Review";
 function ReviewBlock() {
   // name, jobTitle, description, iconSrc
   return (
-    <div className="py-10 xl:py-20 w-full max-w-[1156px] font-inter">
-      <h3 className="font-bold text-2xl lg:text-[36px] leading-7 pb-6 lg:pb-10">
+    <div className="py-10 xl:py-20 w-full max-w-[1156px] font-inter flex flex-col items-center">
+      <h3 className="font-bold text-2xl lg:text-[36px] leading-7 pb-6 lg:pb-10 lg:leading-[48px]">
         What others have said
       </h3>
       <div className="flex flex-col md:flex-row">
@@ -18,7 +18,7 @@ function ReviewBlock() {
         <Review
           name="Brandon"
           jobTitle="Director - Rethink"
-          description="Warren’s commitment to excellence and his collaborative spirit made him an invaluable asset to our team."
+          description="Warren is a highly experienced UX/UI designer whose passion, skill and dedication are evident in every project he undertakes."
           iconSrc="../../icons/brandon.svg"
         />
       </div>

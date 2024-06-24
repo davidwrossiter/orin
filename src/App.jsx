@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import Header from "./components/Header";
 import TermsOfService from "./pages/TermsOfService";
 import Privacy from "./pages/Privacy";
+
 function App() {
   const location = useLocation();
   useEffect(() => {

@@ -21,9 +21,11 @@ function AQ({ question, answer }) {
         <p className="pl-2 text-sm font-bold">{question}</p>
       </div>
       {open ? (
-        <p className="text-orin-grey font-light border-t text-sm mt-4 pt-4">
+        
+        <p className=" font-light border-t text-sm mt-4 pt-4">
           {answer}
         </p>
+        
       ) : (
         ""
       )}
