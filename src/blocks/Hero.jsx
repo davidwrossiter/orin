@@ -24,7 +24,7 @@ function Hero() {
           or cancel at any time.
         </p>
         <div className="flex flex-row gap-2 leading-[14px] text-sm font-medium mb-4 py-6 xl:py-10">
-          <a href="#memberships">
+          <a href="https://cal.com/warrenrossiter/intro" target="_blank">
             <button className="px-6 py-3 sm:py-3 rounded-lg border-[1.4px] border-orin-black bg-orin-black text-white hover:bg-[#404245] active:bg-[#606469]">
               Book a call
             </button>
@@ -33,7 +33,6 @@ function Hero() {
         {/* The brands component below is a regular SVG component I made in JSX */}
         <Brands />
       </div>
-
 
       {/* <img src="../../icons/hero-icon.svg" className="hidden xl:block ml-5"/> */}
     </div>
