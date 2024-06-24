@@ -3,9 +3,9 @@ import HowItWorksEl from "../components/HowItWorksEl";
 
 function HowItWorks() {
   return (
-    <div id="how-it-works" className="pb-10 xl:pb-20 max-w-[1156px]">
-      <h3 className="pb-8 text-2xl leading-[28px] lg:pb-10 font-bold lg:text-[36px]">
-        How it works
+    <div id="how-it-works" className="py-10 xl:py-20 max-w-[1156px]">
+      <h3 className="pb-8 text-2xl text-center leading-[28px] lg:pb-10 font-bold lg:text-[36px] lg:leading-[48px]">
+        How we work
       </h3>
       <div className="flex flex-col sm:flex-row">
         <HowItWorksEl
@@ -13,18 +13,18 @@ function HowItWorks() {
           description="Choose a subscription plan that suits your requirements."
         />
         <HowItWorksEl
-          title="Request"
+          title="Submit Requests"
           description="Submit as many requests as you’d like."
           hasTopMargin={true}
         />
         <HowItWorksEl
-          title="Receive"
-          description="Receive one request at a time, usually within 2 business days."
+          title="Review"
+          description="We’ll deliver one request at a time usually within 48 hours."
           hasTopMargin={true}
         />
         <HowItWorksEl
-          title="Happy"
-          description="We revise until you're 100% satisfied."
+          title="Iterate"
+          description="We’ll iterate on your designs until you're 100% satisfied."
           hasTopMargin={true}
         />
       </div>

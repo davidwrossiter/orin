@@ -21,10 +21,10 @@ function Package({
       </p>
       <p className="text-2xl leading-28 font-bold mb-4">${price}/m</p>
       <div className="text-sm text-orin-grey">
-        <p>• {reqs}</p>
         <p>• Submit as many requests as you like.</p>
-        <p>• 48 hour delivery on average.</p>
-        <p>• Cancel at any time.</p>
+        <p>• {reqs}</p>
+        <p>• 48 hour delivery.</p>
+        <p>• Upgrade, pause or cancel at any time.</p>
       </div>
       <div className="flex flex-row mt-6 leading-[14px] text-sm font-medium">
         <a

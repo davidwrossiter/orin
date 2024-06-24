@@ -8,36 +8,58 @@ function SystemSupport() {
       className="py-10 xl:py-20 w-full max-w-[1156px] flex flex-col lg:items-center"
     >
       <h5 className="max-w-[700px] font-bold text-2xl lg:text-[36px] lg:leading-10 lg:text-center leading-7 pb-4 lg:pb-6">
-        Our Services
+        Work
       </h5>
-      <div className="flex flex-wrap mb-4 lg:mb-10 max-w-[900px] lg:justify-center">
-        <DescTag title="Visual Design" />
-        <DescTag title="Wireframes" />
-        <DescTag title="High-Fidelity Mockups" />
-        <DescTag title="Interactive Prototypes" />
-        <DescTag title="Responsive Layouts" />
-        <DescTag title="Mobile Apps" />
-        <DescTag title="Building Component Libraries" />
-        <DescTag title="Maintaining Component Libraries" />
+      <div className="flex flex-wrap mb-4 lg:mb-10 max-w-[1000px] lg:justify-center">
+        <DescTag title="Website Redesign" />
+        <DescTag title="Mobile App UI" />
+        <DescTag title="Dashboard Design" />
+        <DescTag title="Component Library Design" />
+        <DescTag title="Prototyping" />
+        <DescTag title="User Flow Diagrams" />
+        <DescTag title="Responsive Design" />
+        <DescTag title="Micro-Interactions" />
+        <DescTag title="Landing Page Design" />
+        <DescTag title="Accessibility Improvements" />
       </div>
       <div className="flex flex-col sm:flex-row w-full sm:justify-between max-w-[1156px]">
         <img
           src="../../work-examples/example-one.svg"
-          className="mb-6 w-full sm:w-[32%] object-cover"
+          className="mb-5 w-full sm:w-[32%] object-cover"
           draggable="false"
-          alt="website landing page in dark"
+          alt="website landing page in dark mode"
         />
         <img
           src="../../work-examples/example-two.svg"
-          className="mb-6 w-full sm:w-[32%] object-cover"
+          className="mb-5 w-full sm:w-[32%] object-cover"
           draggable="false"
-          alt="website landing page in dark"
+          alt="website landing page in dark mode"
         />
         <img
           src="../../work-examples/example-three.svg"
+          className="mb-5 w-full sm:w-[32%] object-cover"
+          draggable="false"
+          alt="website landing page in dark mode"
+        />
+      </div>
+      <div className="flex flex-col sm:flex-row w-full sm:justify-between max-w-[1156px]">
+        <img
+          src="../../work-examples/example-four.svg"
           className="mb-6 w-full sm:w-[32%] object-cover"
           draggable="false"
-          alt="website landing page in dark"
+          alt="website landing page in light mode"
+        />
+        <img
+          src="../../work-examples/example-six.svg"
+          className="mb-6 w-full sm:w-[32%] object-cover"
+          draggable="false"
+          alt="website landing page in light mode"
+        />
+        <img
+          src="../../work-examples/example-seven.svg"
+          className="mb-6 w-full sm:w-[32%] object-cover"
+          draggable="false"
+          alt="website landing page in light mode"
         />
       </div>
       <a
