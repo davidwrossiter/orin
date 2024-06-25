@@ -14,7 +14,7 @@ function FAQ() {
       <div className="flex flex-col md:flex-row gap-6 justify-start w-full md:basis-0">
         <div className="flex flex-col md:flex-grow">
           <AQ
-            question="Do you offer a refund if I don’t like the service?"
+            question="What are some examples of a request?"
             // answer="We don’t offer refunds but you can cancel at any time."
             answer={
               <div className="flex flex-col mt-2">
