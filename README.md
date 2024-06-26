@@ -10,6 +10,8 @@
 
 Tech used:
 
+- JavaScript
 - TailwindCSS
 - React
 - Vite
+  
