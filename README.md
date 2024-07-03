@@ -1,4 +1,4 @@
-# Orin Design Co
+# Orin Design Co.
 
 ---
 
