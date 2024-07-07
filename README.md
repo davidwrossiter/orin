@@ -11,7 +11,7 @@
 Tech used:
 
 - JavaScript
-- TailwindCSS
+- Tailwind
 - React
 - Vite
   
