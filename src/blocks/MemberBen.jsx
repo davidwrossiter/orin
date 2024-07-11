@@ -3,7 +3,7 @@ import HowItWorksEl from "../components/HowItWorksEl";
 
 function MemberBen() {
   return (
-    <div className="py-10 xl:py-20 max-w-[1156px] lg:py-20">
+    <div className="py-10 xl:py-20 max-w-[1156px] lg:py-20" id="features">
       <h4 className="pb-6 lg:pb-10 text-center text-2xl lg:text-[36px] leading-[28px] font-bold lg:leading-[48px]">
         Member benefits
       </h4>

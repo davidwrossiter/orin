@@ -22,7 +22,7 @@ function Nav({ visibility }) {
           href="#services"
           className="px-2 sm:px-4 py-1 sm:py-2  hover:bg-orin-light-grey hover:text-black hover:rounded-[4px] hover:cursor-pointer"
         >
-          Services
+          Work
         </a>
         <a
           href="#memberships"
