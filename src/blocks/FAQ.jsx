@@ -12,7 +12,7 @@ function FAQ() {
         What are some examples of a request?
       </p>
       <div className="flex flex-col md:flex-row gap-6 justify-start w-full md:basis-0">
-        <div className="flex flex-col md:flex-grow">
+        <div className="flex flex-col md:flex-grow max-w-[740px]">
           <AQ
             question="What are some examples of a request?"
             // answer="We don’t offer refunds but you can cancel at any time."
