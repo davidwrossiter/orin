@@ -24,42 +24,42 @@ function SystemSupport() {
       </div>
       <div className="flex flex-col sm:flex-row w-full sm:justify-between max-w-[1156px]">
         <img
-          src="../../work-examples/example-one.svg"
-          className="mb-5 w-full sm:w-[32%] object-cover"
+          src="../../work-examples/demo-11.png"
+          className="mb-6 w-full sm:w-[32%] object-cover border rounded-xl border-orin-border-grey"
           draggable="false"
-          alt="website landing page in dark mode"
+          alt="website landing page in light mode"
         />
         <img
-          src="../../work-examples/example-two.svg"
-          className="mb-5 w-full sm:w-[32%] object-cover"
+          src="../../work-examples/demo-7.png"
+          className="mb-6 w-full sm:w-[32%] object-cover border rounded-xl border-orin-border-grey"
           draggable="false"
-          alt="website landing page in dark mode"
+          alt="website landing page in light mode"
         />
         <img
-          src="../../work-examples/example-three.svg"
-          className="mb-5 w-full sm:w-[32%] object-cover"
+          src="../../work-examples/demo-8.png"
+          className="mb-6 w-full sm:w-[32%] object-cover border rounded-xl border-orin-border-grey"
           draggable="false"
-          alt="website landing page in dark mode"
+          alt="website landing page in light mode"
         />
       </div>
       <div className="flex flex-col sm:flex-row w-full sm:justify-between max-w-[1156px]">
         <img
-          src="../../work-examples/example-four.svg"
-          className="mb-6 w-full sm:w-[32%] object-cover"
+          src="../../work-examples/example-9.png"
+          className="mb-5 w-full sm:w-[32%] object-cover border rounded-xl border-orin-border-grey"
           draggable="false"
-          alt="website landing page in light mode"
+          alt="website landing page in dark mode"
         />
         <img
-          src="../../work-examples/example-six.svg"
-          className="mb-6 w-full sm:w-[32%] object-cover"
+          src="../../work-examples/demo-13.png"
+          className="mb-5 w-full sm:w-[32%] object-cover border rounded-xl border-orin-border-grey"
           draggable="false"
-          alt="website landing page in light mode"
+          alt="website landing page in dark mode"
         />
         <img
-          src="../../work-examples/example-seven.svg"
-          className="mb-6 w-full sm:w-[32%] object-cover"
+          src="../../work-examples/demo-12.png"
+          className="mb-5 w-full sm:w-[32%] object-cover  border rounded-xl border-orin-border-grey"
           draggable="false"
-          alt="website landing page in light mode"
+          alt="website landing page in dark mode"
         />
       </div>
       <a
