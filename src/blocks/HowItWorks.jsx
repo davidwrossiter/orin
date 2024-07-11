@@ -4,7 +4,7 @@ import HowItWorksEl from "../components/HowItWorksEl";
 function HowItWorks() {
   return (
     <div id="how-it-works" className="py-10 xl:py-20 max-w-[1156px]">
-      <h3 className="pb-8 text-2xl text-center leading-[28px] lg:pb-10 font-bold lg:text-[36px] lg:leading-[48px]">
+      <h3 className="pb-8 text-2xl sm:text-center leading-[28px] lg:pb-10 font-bold lg:text-[36px] lg:leading-[48px]">
         How we work
       </h3>
       <div className="flex flex-col sm:flex-row">
