@@ -9,8 +9,8 @@ function BookCall() {
       <div>
         <div className="py-8 flex flex-row items-center ">
           <img
-            src="../../icons/warren.svg"
-            className="border rounded-lg border-orin-border-grey"
+            src="../../icons/warr-call.png"
+            className="border rounded-lg border-orin-border-grey w-14 h-14"
             draggable="false"
             alt="portrait of man in grey-scale"
           />
