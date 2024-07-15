@@ -1,6 +1,6 @@
 import Hero from "../blocks/Hero";
 import HowItWorks from "../blocks/HowItWorks";
-import ReviewBlock from "../blocks/ReviewBlocktjsx";
+import ReviewBlock from "../blocks/ReviewBlockt.tsx";
 
 import Services from "../blocks/Services";
 import Memberships from "../blocks/Memberships";
