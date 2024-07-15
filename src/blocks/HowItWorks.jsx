@@ -7,7 +7,7 @@ function HowItWorks() {
       <h3 className="pb-8 text-2xl sm:text-center leading-[28px] lg:pb-10 font-bold lg:text-[36px] lg:leading-[48px]">
         How we work
       </h3>
-      <div className="flex flex-col sm:flex-row">
+      <div className="flex flex-col md:flex-row">
         <HowItWorksEl
           title="Subscribe"
           description="Choose a subscription plan that suits your requirements."
