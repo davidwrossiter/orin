@@ -10,8 +10,11 @@
 
 Tech used:
 
-- JavaScript
+- TypeScript
 - Tailwind
 - React
 - Vite
-  
+
+Hosting:
+
+- Cloudflare pages
