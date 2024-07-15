@@ -3,8 +3,8 @@ import Review from "../components/Review";
 function ReviewBlock() {
   // name, jobTitle, description, iconSrc
   return (
-    <div className="py-10 xl:py-20 w-full max-w-[1156px] font-inter flex flex-col items-start sm:items-center">
-      <h3 className="font-bold text-2xl w-full sm:text-center lg:text-[36px] leading-7 pb-8 lg:pb-10 lg:leading-[48px]">
+    <div className="py-10 xl:py-20 w-full max-w-[1156px] font-inter flex flex-col items-start md:items-center">
+      <h3 className="font-bold text-2xl w-full md:text-center lg:text-[36px] leading-7 pb-8 lg:pb-10 lg:leading-[48px]">
         What others have said
       </h3>
       <div className="flex flex-col md:flex-row">
