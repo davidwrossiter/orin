@@ -1,6 +1,12 @@
 import React from "react";
 
-function HowItWorksEl({ hasTopMargin, title, description }) {
+interface HowItWorksElTypes {
+  title: string;
+  description: string;
+  hasTopMargin?: boolean;
+}
+
+function HowItWorksEl({ title, description, hasTopMargin }: HowItWorksElTypes) {
   return (
     <div className="lg:mr-6 w-full max-w-[380px] mb-4 flex flex-col flex-grow flex-shrink mr-2 pr-4">
       <div
