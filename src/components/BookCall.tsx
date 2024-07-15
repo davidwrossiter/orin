@@ -24,16 +24,13 @@ function BookCall() {
       </div>
 
       <a href="https://cal.com/warrenrossiter/intro" target="_blank">
-        <button
-          target="_blank"
-          className="mt-6 mb-8 px-4 py-4 text-sm leading-[14px] rounded-lg border-[1.4px] border-orin-black hover:bg-[#EFEFEF] active:bg-[#E0DCDC]"
-        >
+        <button className="mt-6 mb-8 px-4 py-4 text-sm leading-[14px] rounded-lg border-[1.4px] border-orin-black hover:bg-[#EFEFEF] active:bg-[#E0DCDC]">
           Book an Intro Call
         </button>
       </a>
       <p className="text-[12px] leading-4">
         Or email using{" "}
-        <span className="underline">orin.design@proton (.) me</span>
+        <span className="underline">warren (at) orindesign (dot) co</span>
       </p>
     </div>
   );
