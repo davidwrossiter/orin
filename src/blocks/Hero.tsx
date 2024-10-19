@@ -1,22 +1,15 @@
-import React from "react";
 import Brands from "../components/Brands";
-import HeroRight from "../../public/components/HeroRight";
 
 function Hero() {
   //
   return (
     <div className="font-inter py-10 md:py-[104px] w-full max-w-[1158px] flex flex-col xl:flex-row xl:items-start xl:justify-between">
       <div className="mr-16 w-full flex justify-center flex-col items-start md:items-center">
-        <h1 className="max-w-[800px] md:text-center pb-4 text-[36px] leading-10 font-bold text-orin-black text-wrap md:text-[48px] md:leading-[48px]">
-          Quality{" "}
-          <span className="text-orin-blue">
-            {/* <br className="sm:hidden" /> */}
-            design
-            {/* <br className="sm:hidden" /> */}
-          </span>
-          ,
-          <br />
-          delivered fast and affordably.
+        <h1 className="max-w-[800px] md:text-center pb-4 text-[36px] leading-10 font-bold text-orin-black text-wrap md:text-[56px] md:leading-[60px]">
+          Top-notch{" "}
+          <br className="lg:hidden" />
+          product design,
+          delivered <br className="lg:hidden" /> fast and affordably
         </h1>
         <p className="text-orin-grey md:text-center max-w-[600px]">
           Orin Design is a subscription-based design agency that offers a
@@ -35,7 +28,7 @@ function Hero() {
       </div>
 
       {/* <img src="../../icons/hero-icon.svg" className="hidden xl:block ml-5"/> */}
-    </div>
+    </div >
   );
 }
 

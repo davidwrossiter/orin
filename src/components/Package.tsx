@@ -20,11 +20,12 @@ function Package({
         {title}
       </p>
       <p className="text-2xl leading-28 font-bold mb-4">${price}/m</p>
-      <div className="text-sm text-orin-grey">
+      <div className="text-sm flex flex-col gap-1 text-orin-grey">
         <p>• Submit as many requests as you like.</p>
-        <p>• {reqs}</p>
-        <p>• 48 hour delivery.</p>
-        <p>• Upgrade, pause or cancel at any time.</p>
+        <p>• Average 1-2 day delivery.</p>
+        <p>• Delivered one request at a time.</p>
+        <p>• Pause or cancel at any time.</p>
+        <p>• Weekly check-ins and updates.</p>
       </div>
       <div className="flex flex-row mt-6 leading-[14px] text-sm font-medium">
         <a
@@ -43,19 +44,7 @@ function Package({
           Book an Intro Call
         </a>
       </div>
-      <div className="text-[12px] mt-8">
-        <p className="mb-2 max-w-[336px]">
-          Refer a friend and earn 5% monthly recurring commissions for each
-          referral.
-        </p>
-        <a
-          href="https://orin-design-co.getrewardful.com"
-          target="_blank"
-          className="font-bold"
-        >
-          Get started
-        </a>
-      </div>
+
     </div>
   );
 }
