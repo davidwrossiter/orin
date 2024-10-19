@@ -21,6 +21,7 @@ function Memberships() {
           textColour="text-orin-black"
           url="https://buy.stripe.com/8wM8yE77W2OLb5u5kn"
         />
+
         {/*  <Package
           title="Pro Subscription"
           price="5,995.00"

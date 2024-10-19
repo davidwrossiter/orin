@@ -44,6 +44,10 @@ function Package({
           Book an Intro Call
         </a>
       </div>
+      <p className="text-[12px] leading-4 mt-4">
+        Or email using{" "}
+        <span className="underline">warren (at) orindesign (dot) co</span>
+      </p>
 
     </div>
   );

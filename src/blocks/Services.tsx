@@ -24,45 +24,51 @@ function SystemSupport() {
       </div>
       <div className="flex flex-col sm:flex-row w-full sm:justify-between max-w-[1156px]">
         <img
-          src="../../work-examples/demo-11.png"
-          className="mb-6 w-full sm:w-[32%] object-cover border rounded-xl border-orin-border-grey"
+          src="../../public/updated/Frame.png"
+          className="mb-6 w-full sm:w-[49%] object-cover "
           draggable="false"
           alt="website landing page in light mode"
         />
         <img
-          src="../../work-examples/demo-7.png"
-          className="mb-6 w-full sm:w-[32%] object-cover border rounded-xl border-orin-border-grey"
-          draggable="false"
-          alt="website landing page in light mode"
-        />
-        <img
-          src="../../work-examples/demo-8.png"
-          className="mb-6 w-full sm:w-[32%] object-cover border rounded-xl border-orin-border-grey"
+          src="../../public/updated/2.png"
+          className="mb-6 w-full sm:w-[49%] object-cover "
           draggable="false"
           alt="website landing page in light mode"
         />
       </div>
       <div className="flex flex-col sm:flex-row w-full sm:justify-between max-w-[1156px]">
         <img
-          src="../../work-examples/example-9.png"
-          className="mb-5 w-full sm:w-[32%] object-cover border rounded-xl border-orin-border-grey"
+          src="../../public/updated/3.png"
+          className="mb-6 w-full sm:w-[49%] object-cover"
+          draggable="false"
+          alt="website landing page in light mode"
+        />
+        <img
+          src="../../public/updated/4.png"
+          className="mb-6 w-full sm:w-[49%] object-cover"
+          draggable="false"
+          alt="website landing page in light mode"
+        />
+      </div>
+
+      <div className="flex flex-col sm:flex-row w-full sm:justify-between max-w-[1156px]">
+        <img
+
+          src="../../public/updated/5.png"
+          className="mb-5 w-full sm:w-[49%] object-cover"
           draggable="false"
           alt="website landing page in dark mode"
         />
         <img
-          src="../../work-examples/demo-13.png"
-          className="mb-5 w-full sm:w-[32%] object-cover border rounded-xl border-orin-border-grey"
-          draggable="false"
-          alt="website landing page in dark mode"
-        />
-        <img
-          src="../../work-examples/demo-12.png"
-          className="mb-5 w-full sm:w-[32%] object-cover  border rounded-xl border-orin-border-grey"
+
+          src="../../public/updated/6.png"
+          className="mb-5 w-full sm:w-[49%] object-cover"
           draggable="false"
           alt="website landing page in dark mode"
         />
       </div>
       <a
+        className="mt-6"
         href="https://www.figma.com/proto/YZ7mEOEg9pkIn8xbNI7xwy/Orin-Landing-Page?page-id=1068%3A6441&node-id=1068-6666&viewport=380%2C416%2C0.12&t=eeaTGHglfrxyoGPP-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1068%3A6666&show-proto-sidebar=1"
         target="_blank"
       >
