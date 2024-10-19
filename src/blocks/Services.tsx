@@ -24,13 +24,13 @@ function SystemSupport() {
       </div>
       <div className="flex flex-col sm:flex-row w-full sm:justify-between max-w-[1156px]">
         <img
-          src="../../public/updated/Frame.png"
+          src="../../updated/Frame.png"
           className="mb-6 w-full sm:w-[49%] object-cover "
           draggable="false"
           alt="website landing page in light mode"
         />
         <img
-          src="../../public/updated/2.png"
+          src="../../updated/2.png"
           className="mb-6 w-full sm:w-[49%] object-cover "
           draggable="false"
           alt="website landing page in light mode"
@@ -38,13 +38,13 @@ function SystemSupport() {
       </div>
       <div className="flex flex-col sm:flex-row w-full sm:justify-between max-w-[1156px]">
         <img
-          src="../../public/updated/3.png"
+          src="../../updated/3.png"
           className="mb-6 w-full sm:w-[49%] object-cover"
           draggable="false"
           alt="website landing page in light mode"
         />
         <img
-          src="../../public/updated/4.png"
+          src="../../updated/4.png"
           className="mb-6 w-full sm:w-[49%] object-cover"
           draggable="false"
           alt="website landing page in light mode"
@@ -54,14 +54,14 @@ function SystemSupport() {
       <div className="flex flex-col sm:flex-row w-full sm:justify-between max-w-[1156px]">
         <img
 
-          src="../../public/updated/5.png"
+          src="../../updated/5.png"
           className="mb-5 w-full sm:w-[49%] object-cover"
           draggable="false"
           alt="website landing page in dark mode"
         />
         <img
 
-          src="../../public/updated/6.png"
+          src="../../updated/6.png"
           className="mb-5 w-full sm:w-[49%] object-cover"
           draggable="false"
           alt="website landing page in dark mode"
